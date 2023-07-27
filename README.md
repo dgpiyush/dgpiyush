@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React,Django,Node and languages c++,Javascript,Python**
+- 💬 Ask me about **React, Next Js,Django,Node and languages c++,Javascript,Python,Typescript**
 
 - 📫 How to reach me **piyushrmishra143@gmail.com**
 
