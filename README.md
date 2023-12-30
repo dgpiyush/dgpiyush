@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React Native**
 - 💬 Ask me about **React, Next.js, Django, Node, and languages C++, JavaScript, Python, TypeScript**
 - 📫 How to reach me: **piyushrmishra143@gmail.com**
-- ⚡ Fun fact: **I like to play Flute**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
