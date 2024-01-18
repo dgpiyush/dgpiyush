@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
-- 🌱 I’m currently learning **React Native**
+
 - 💬 Ask me about **React, Next.js, Django, Node, and languages C++, JavaScript, Python, TypeScript**
 - 📫 How to reach me: **piyushrmishra143@gmail.com**
 
